@@ -1,0 +1,10 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "DMA 가이드",
+  "navigation": [
+    {
+      "group": "시작하기",
+      "pages": ["index"]
+    }
+  ]
+}
